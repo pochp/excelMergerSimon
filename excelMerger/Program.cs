@@ -1,4 +1,9 @@
-﻿using NPOI.HSSF.UserModel;
+﻿/// Made by : Pedro Rodriguez
+/// Date : 14 mars 2019
+/// Github : https://github.com/pochp/excelMergerSimon
+
+
+using NPOI.HSSF.UserModel;
 using NPOI.SS.UserModel;
 using NPOI.XSSF.UserModel;
 using System;
